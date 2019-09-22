@@ -1,0 +1,14 @@
+Tuning:  G A D F A C
+
+
+C |-0-0-0-0-0-0-0-0-0-0-0-0|
+A |-0-0-0-0-0-0-0-0-0-0-0-0|
+F |-0-0-0-0-0-0-0-0-0-0-0-0|
+D |-------------0---0------|
+A |-------0-------------0--|
+G |-0----------------------|
+
+Emphasise the moving part, keeping the FAC low.
+
+This modulates around in the piece. I haven't messed around too much,
+but it may be necessary to tune down a whole step. 

@@ -1,0 +1,159 @@
+--------------------------------------------------
+        Oh Well (Studio Version) - Fleetwood Mac
+--------------------------------------------------
+
+Tabbed by:  Frendy Glasser
+Email:      frendy_glasser@msn.com
+
+As heard on the “The Best Air Guitar Album In World Ever” disc 2
+
+Tuning: Standard
+
+
+  Fig. 1: Repeat 2x, 1st time acoustic only, 2nd time w/distorted electric
+e|----------------------------------------------------------------------|
+B|----------------------------------------------------------------------|
+G|----------------------------------------------------------------------|
+D|------------0------------------------------------0------2-------------|
+A|-----0-0-2h---0-2hp-0-----2-2-2--2--------0-0-2h---0-2h---2-2-2-2-----|
+E|-0-3------------------3---0-0-0--0-0-3--------------------0-0-0-0-----|
+
+  Fig. 1: continued
+e|----------------------------------------------------------------------|
+B|----------------------------------------------------------------------|
+G|----------------------------------------------------------------------|
+D|------------0-----------------------------0-0-2hp-0-------------------|
+A|-----0-0-2h---0-2hp-0---2-2-2--2-----0-0-2h---------0-0-2hp-0---------|
+E|-0-3------------------3-0-0-0--0-0-3--------------------------3-0-0-0-|
+
+  Fig. 2: Repeat four times
+e|-------------------------------|
+B|-----------------~12-12-12-----|
+G|-----------------~12-12-12-----|
+D|-------------------------------|
+A|-5/7-7-7-7-7-7-7---------------|
+E|-0-0-0-0-0-0-0-0---------------|
+
+  Fig. 3: repeat four times
+e|--------------------------|
+B|------8-------------------|
+G|-7-9h---9-7-9h------------|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+Fig. 4a               Fig. 4b: see note
+e|--------------7----|-----------------|
+B|-----8---10--------|-----------------|
+G|-7-9---9----9---9--|-------------4/9-|
+D|-------------------|-------5---5-----|
+A|-------------------|---5-7---7-------|
+E|-------------------|-7---------------|
+
+Fig. 4b note: this is the basic core pattern, you can play with it with hammers and pulls
+and adding passing tones such as G string 7th Fret.  I count 4 beats of 16th notes starting
+on the D string 5th fret note the 1st time through this riff.  To get them all I need a 
+mp3 player that would allow me to zero in on that pattern.  It's basically an arpeggio.
+I’m happy with the sound I get using the technique described above, i.e. it’s close enough.
+
+Song:
+
+Fig 1. 2x
+Fig 2. 4x
+Fig 3. 4x
+Fig 4a. 1x
+Fig 4b. 1x
+
+Vocals only:
+I can’t help it about the shape I’m in
+I can’t sing, I ain’t pretty, and my legs are thin
+Well don’t ask me what I think of you
+I might not give the answers that you want me to
+                                              Fig 1. 1x
+
+Oh well
+
+Fig 3. 2x
+Fig 4a. 1x
+Fig 4b. 1x
+
+Lead Fig. 5  (Below with notes)
+
+
+Now when I talk to God I know He’d understand
+He said stick by me and I’ll be your guiding hand
+Well don’t ask me what I think of you
+I might not give the answers that you want me to
+                                               Fig 1. 1x
+Fig 2. 4x
+Fig 3. 4x
+Fig 4a. 1x
+Fig 4b. 1x
+
+See Figure 7 for the way cool outro heard on the original release
+of this song.  Not on the live version we usually hear.
+
+  Fig. 5 Lead (see note)
+e|--~12-~12--------------|
+B|-----------------------|
+G|-----------------------|
+D|-----------------------|
+A|-5/7-7-7-7-------------|
+E|---0-0-0-0-------------|
+
+Fig. 5 note: here is where you let your personal style shine,
+             the album’s lead revolves around the pentatonic
+             shown in Fig. 6, just have fun and play away.
+             Rhythm guitar and the Bass stick to E and A
+             pattern shown in figure 5.
+
+Fig. 6: 10th position pentatonic, see note
+e|--------------10--12----------------|
+B|------10--12------------------------|
+G|---11-------------------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+Fig. 6 note: based on the classic blues scale used in a million different
+             Leads.  Freddie King was known to use only these 5 notes
+             In many leads using bends and trills only.
+
+  Fig. 7 (outro) see note
+e|--------------------------------------------------------------|
+B|--------------------------------------------------------------|
+G|-7-----------------------7-----------------------7-7-7-7-7----|
+D|-7------5-5-5--4----5-5--7-----5-5-5-4---------5-7-7-7-7-7-5--|
+A|--------7 7-7 -5----7-7--------7-7-7-5---2/7---7-----------7--|
+E|------0----------0----------0----------------0-------------0--|
+
+  Fig. 7 continued
+e|------------------------------7-7-7-7-7----5------------7-7-7-7-7----5-|
+B|------------------------------7-7-7-7-78hp-5------------7-7-7-7-78hp-5-|
+G|-----7-7-7-7-7----------------7-7-7-7-7----5------------7-7-7-7-7----5-|
+D|---5-7-7-7-7-7---5------------9-9-9-9-9----7------------9-9-9-9-9----7-|
+A|---7-------------7------ ----------------------------------------------|
+E|-0---------------0---3-2-0--7-----------------0-3-2-0-7----------------|
+
+  Fig. 7  note: Let open E’s ring, you can have a lot of fun with these
+          Patterns in your own creative playing, the use of the 7th position
+          Em is haunting when paired with the diatic D-F#, with the low E
+          Ringing to create a very interesting tension - its basically an
+          Edim/9.  Fun stuff
+
+Final note:  The song illustrates the importance of using your left
+             and right hands in a way to make it almost sound like
+             one guitar is two.  The left hand uses hammer-ons and
+             pull-offs, the right hand uses palm muting and a very
+             funky, loose wrist style. Practice this and you’ll
+             see it isn’t as hard as it sounds and it will
+             improve your overall playing.
+
+
+************************************
+
+| h  Hammer-on
+| /  Slide up
+| ~  Vibrato
+
+************************************

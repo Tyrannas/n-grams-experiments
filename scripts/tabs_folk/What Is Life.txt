@@ -1,0 +1,219 @@
+---------------------------------------------------------------------------
+                What Is Life - George Harrison
+---------------------------------------------------------------------------
+
+Written by: George Harrison
+From: "All Things Must Pass" (1970)
+
+Tabbed by: maguri
+Tuning: Standard
+
+Here is what you'll find in this tab:
+- tab for the fuzz guitar playing throughout the whole song
+- special chord voicings and rhythmic variations
+- lyrics, chords and arrangement
+
+capo: 2nd fret
+play: D
+key: E
+
+For original chords transpose this tab +2
+
+---------------------------------------------------------------------------
+
+FUZZ GUITAR
+
+Capo 2nd fret
+
+[Intro] (3xA + 1xB)
+
+PART A
+  D       A        G          A     D       A        G          A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|0---------------|----------------|0---------------|----------------|
+A|--4-2-0-----4-2-|0----------0----|--4-2-0-----4-2-|0---------0-2-0-|
+E|----------------|--3---3-3-------|----------------|--3--(3)3-------|
+Part B
+  C       C/B      A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|
+B|----------------|----------------|
+G|----------------|----------------|
+D|----------------|----------------|
+A|3-----2---------|0-0-0-----------|
+E|----------------|----------------|
+
+
+[Verse]
+  D                                 A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|0-----0---------|0-----0---------|----------------|----------------|
+A|--------0-----0-|--------2-0-----|0-----0---------|0-----0-----0-1-|
+E|----------------|------------0-2-|--------0-----0-|--------0-2-----|
+  B                Em               F       F/E F/D  C       C/B A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|------------0-1-|2-----2---0-1-2-|3-----2-----0---|----------------|
+A|2-----2---0-----|--------2-------|----------------|3-----2-----0---|
+E|--------2-------|----------------|----------------|----------------|
+
+
+[Chorus] 
+Chorus 1: 2xA+1xB
+Chorus 2: 2xA+1xC – 2xA+1xB
+Chorus 3: 2xA+1xC (repeat and fade)
+
+PART A
+  D       A        G          A     D       A        G          A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|0---------------|----------------|0---------------|----------------|
+A|--4-2-0-----4-2-|0----------0----|--4-2-0-----4-2-|0---------0-2-0-|
+E|----------------|--3---3-3-------|----------------|--3--(3)3-------|
+
+Part B (chorus to verse/intro)
+  C       C/B      A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|
+B|----------------|----------------|
+G|----------------|----------------|
+D|----------------|----------------|
+A|3-----2---------|0-0-0-----------|
+E|----------------|----------------|
+
+Part C (chorus turnaround)
+  C                C  C/B  A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|
+B|----------------|----------------|
+G|----------------|----------------|
+D|----------------|----------------|
+A|3-----3---------|3---2---0-------|
+E|----------------|----------------|
+
+
+---------------------------------------------------------------------------
+
+CHORDS
+      E-A-D-G-B-e
+F     x-x-3-2-1-1
+F/E   x-x-2-0-1-1 (or rather "Fsus2/E") 
+F/D   x-x-0-0-1-1 (or rather "Fsus2/D")
+C/B   x-2-x-0-1-0
+
+
+*TURNAROUND1 (verse-verse / verse-chorus)
+  F       F/E F/D  C       C/B A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|1-----1-----1---|----------------|
+B|1-----1-----1---|1-----1---------|
+G|2-----0-----0---|0-----0---------|
+D|3-----2-----0---|2-----x-----2---|
+A|----------------|3-----2-----0---|
+E|----------------|----------------|
+
+**TURNAROUND2 (chorus-chorus)  
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+  C                C   C/B A
+e|0-----0---------|0-------0-------|
+B|1-----1---------|1---1---2-------|
+G|0-----0---------|0---0---2-------|
+D|2-----2---------|2---x---2-------|
+A|3-----3---------|3---2---0-------|
+E|----------------|----------------|
+
+---------------------------------------------------------------------------
+
+[Intro]
+| D A | G  A | D A | G   A |
+| D A | G  A | D A | G   A |
+| D A | G  A | D A | G   A |
+| C C/B | A |
+
+
+[Verse] 1
+       D             A
+What I feel, I can't say
+       B                     Em        *F   F/E  F/D  
+But my love is there for you anytime of day [TURNAROUND1]
+C     C/B     A   D             A
+  But if it's not love that you need
+          B                   Em           *F    F/E  F/D  C   C/B  A
+Then I'll try my best to make everything succeed [TURNAROUND1](Tell me ...)
+
+
+[Chorus] 1
+[C/B  A]  D    A     G           A    D  A G
+Tell me, what is my life without your lo----ve
+     A   D    A      G     A   D  A G         C       C  C/B  A
+Tell me, who--ooh am I without yo---ou, by my si--de
+
+
+[Verse] 2
+       D           A
+What I know, I can do
+     B                   Em           *F   F/E  F/D  
+If I give my love now to everyone like you [TURNAROUND1]
+C      C/B     A  D             A
+  But if it's not love that you need
+          B                   Em           *F    F/E  F/D  C  C/B  A
+Then I'll try my best to make everything succeed [TURNAROUND1](Tell me ...)
+
+
+[Chorus] 2
+ [C/B  A]  D    A     G           A    D  A G
+Tell me, what is my life without your lo----ve
+     A   D    A      G     A   D  A G       **C       C  C/B  A
+Tell me, who--ooh am I without yo---ou, by my si--de [TURNAROUND2]
+         D    A     G            A    D  A G
+Tell me, what is my life without your lo----ve
+     A   D    A      G     A   D  A G         C  C/B   A
+Tell me, who--ooh am I without yo---ou, by my si--de
+
+
+[Interlude]
+| D A | G  A | D A | G   A |
+| D A | G  A | D A | G   A |
+| D A | G  A | D A | G   A |
+| C C/B | A |
+
+
+[Verse] 3
+       D             A
+What I feel, I can't say
+       B                     Em         *F   F/E  F/D 
+But my love is there for you any time of day [TURNAROUND1]
+C      C/B     A  D             A
+  But if it's not love that you need
+          B                   Em           *F    F/E  F/D  C   C/B  A
+Then I'll try my best to make everything succeed [TURNAROUND1](Tell me ...)
+
+
+[Chorus] 3
+ [C/B  A]  D    A     G           A    D  A G
+Tell me, what is my life without your lo----ve
+     A   D    A      G     A   D  A G       **C       C  C/B  A
+Tell me, who--ooh am I without yo---ou, by my si--de  [TURNAROUND2]
+            D    A     G           A    D  A G
+Oh tell me, what is my life without your lo----ve
+     A   D    A      G     A   D  A G       **C       C  C/B  A
+Tell me, who--ooh am I without yo---ou, by my si--de  [TURNAROUND2]
+D    A     G           A    D  A G
+What is my life without your lo----ve
+     A   D    A      G     A   D  A G       **C       C  C/B  A
+Tell me, who--ooh am I without yo---ou, by my si--de  [TURNAROUND2]
+            D    A     G           A    D  A G
+Oh tell me, what is my life without your lo----ve
+     A   D    A      G     A   D  A G       **C       C  C/B  A
+Tell me, who--ooh am I without yo---ou, by my si--de  [TURNAROUND2]
+(repeat and FADE)
