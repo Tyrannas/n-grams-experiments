@@ -1,0 +1,101 @@
+Rise by Eddie Vedder (Mandolin)
+This song is essentially just variations of the G, C and D chords.  It's not difficult to play, it's just
+confusing to read at first. You may need a Youtube video to figure out the strumming pattern, it’s all over
+the place and there’s a lot of versions, but the chord progression is below.
+
+Start by just plucking the G chord. There's various different ways of playing it, but this is the simplest.
+
+E|--------------3----3--------------------3--3---------------|
+A|-----2-----2------------2-----2-----2-------------2-----2--|
+D|--------0------------0-----------0-------------0-----0-----|
+G|--0------------------------0-------------------------------|
+
+Chords are as follows. Each one only requires 2 fingers! Most of the time you're only moving one finger
+around. Best advice is go slow, try playing each chord once in order with the lyrics and you'll start to
+recognize the progression. Then learn a strumming pattern that works for you.
+/ = slide up.
+\ = slide down.
+
+   G     G2    G3    G4    G5 (only used once)
+E|-3-| |-5-| |-7-| |-5-| |-0-|
+A|-2-| |-3-| |-5-| |-2-| |-2-|
+D|-0-| |-0-| |-0-| |-0-| |-0-|
+G|-0-| |-0-| |-0-| |-0-| |-0-|
+
+   C     C2    C3    C4    C5    C6    C7
+E|-0-| |-0-| |-0-| |-0-| |-0-| |-0-| |-0-|
+A|-3-| |-3-| |-3-| |-2-| |-5-| |-7-| |-3-|
+D|-2-| |-4-| |-5-| |-5-| |-4-| |-5-| |-7-|
+G|-0-| |-0-| |-0-| |-0-| |-0-| |-0-| |-0-|
+
+   D     D2    D3    D4
+E|-2-| |-0-| |-3-| |-5-|
+A|-0-| |-0-| |-0-| |-0-|
+D|-0-| |-0-| |-0-| |-0-|
+G|-2-| |-2-| |-2-| |-2-|
+
+
+G/G3           \G2      \G (x2)
+Such is the way of the world
+            C  C3  C2  C
+You can never know
+G/G3           \G2     \G (x2)
+Just where to put all your faith
+            C  C3  C2  C
+And how will it grow?
+
+     D   D2 D
+Gonna rise up
+ G     G4 G             C   C4   C
+Burning black holes in dark memories
+     D   D2 D
+Gonna rise up
+ G     G4 G             C   C2   C3     C7
+Turning mistakes into gold...
+
+(Instrumental)
+G  G2
+D  D3  D4
+C6  C5  C  C4
+G  G5 (only time you use G5)
+D  D3  D4
+C6  C5  C3  C4
+C6  C5  C3  C4
+
+---(Second verse and chorus same as above except the very last line)---
+
+G/G3           \G2     \G (x2)
+Such is the passage of time
+            C  C3  C2  C
+Too fast to fold
+G/G3           \G2     \G (x2)
+Suddenly swallowed by signs
+            C  C3  C2  C
+Lo and behold
+
+     D   D2 D
+Gonna rise up
+ G     G4 G             C   C4   C
+Find my direction magnetically
+     D   D2 D
+Gonna rise up
+ G     G4 G             C   C2   C3   C   C2   C3  C7
+Throw down my ace in the hole
+
+(This gets tricky, it's similar to the chorus)
+D   D2 D
+G   G4 G
+C   C4   C   C4
+D   D2 D
+G   G4 G
+C (strum a couple times)
+
+
+G/G3 \G2 \G G4
+ /G3 \G2 \G G4 
+D D3 D4
+
+C C2 C3 C2 C
+(slow strum) G
+
+GOOD LUCK!

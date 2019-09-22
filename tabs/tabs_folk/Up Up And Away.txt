@@ -1,0 +1,39 @@
+I've tried to create a tab for this by watching videos of the song and various covers to see what people are
+playing, there may be some mistakes, but perhaps this will be decent foundation for someone with a better ear
+to build up from. This is one of the main riffs repeated throughout the song.
+
+This song uses some percussive playing, I don't know a standard way of noting the percussive parts so I'll
+add letters above the tab to mean various things. 
+If it's confusing then try watching footage of the song to see what I mean:
+B - Bass drum-esque sound, use your wrist above the strings or heel of your palm on the bottom right.
+S - Snare-ish sound? Use your middle finger to slap the lower side of the guitar, move position for different
+sounds.
+
+Tuning DGDGAD
+
+
+[Intro]
+
+    B                                          S  S      S  S      B
+D|---------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+G|---------------------------------------------------------------------------|
+D|-------lt5----rt7--lt5--rt9--lt5---rt7--lt5-------lt5-------lt5-----lt5----|  x2
+G|------------------------rt9--------rt7-------------------------------------|
+D|-------lt5-rt7-----lt5-------lt5--------lt5-------lt5-------lt5-----lt5----|
+
+    B                                          S  S      S  S      B
+D|---------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+G|---------------------------------------------------------------------------|
+D|-------lt2----rt7--lt2--rt9--lt2---rt7--lt2-------lt2-------lt2-----lt2----|  x2
+G|------------------------rt9--------rt7-------------------------------------|
+D|-------lt2-rt7-----lt2-------lt2--------lt2-------lt2-------lt2-----lt2----|
+
+
+************************************
+
+| rt    Right-handed Tapping
+| lt    Left-handed Tapping
+
+************************************

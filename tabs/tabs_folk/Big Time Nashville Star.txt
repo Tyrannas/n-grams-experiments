@@ -1,0 +1,105 @@
+-------------------------------------------------------------------------------
+         Big Time Nashville Star (Feat. Esme Patterson) - Shakey Graves
+-------------------------------------------------------------------------------
+Most of the song is played in out-right chords with embellishments, standard for most Shakey Graves songs.
+For the purposes of this tab I'll first include the embellishments featured prominently between the opening 
+chorus and first verse, followed by the chords. The rhythm is somewhat consistent, though Shakey will switch
+it up during different sections, depending on what version you watch or hear - but for the most part he plays
+a classic country rhythm hitting the low E bass note, playing the chord twice, then doing the same with the 
+bass note on the D string. He/they open with a chorus, which you can play with or without chords, followed by
+what is essentially the intro. During the intro Shakey plays the following lines of lead based on the E major
+chord that he is playing for rhythm: 
+
+Tuning: Standard
+    E
+e|--0-------------------------------------------------0----------------------|
+B|--0-------------------------------------------------0----------------------|
+G|--1-------------------------------------------------1----------------------|
+D|--2-------------------------------------------------2----------------------|
+A|--2------------0h2p0--------------------------------2----------------------|
+E|--0----0h2p0----------2p0---------------------------0----------------------|
+                                                      E
+FOLLOWED BY
+
+e|----------------------------------------------------0----------------------|
+B|------------------------2h3p2p0--2p0----------------0----------------------|
+G|--2h3p2p0--2p0-----------------------2p0------------1----------------------|
+D|----------------2p0---------------------------------2----------------------|
+A|----------------------------------------------------2----------------------|
+E|----------------------------------------------------0----------------------|
+                                                      E
+AND
+
+e|---------------------------------------------------------------------------|
+B|------------------------2h3p2p0--------------------------------------------|
+G|--2h3p2p0--2p0-------------------------------------------------------------|
+D|---------------2p0---------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+E|--------------------------------3p0-3p0------------------------------------|
+
+Each of these is played very quickly and timing can be determined pretty easily from 
+listening to the recording.
+
+The chords are as follows:
+
+CHORUS (the last line starts on B and features a walk-down in the bass note)
+
+A           C#m      E  
+  You might wander far
+
+B                        A
+Be a Big Time Nashville Star
+
+A         C#m     A
+ Still it never hurts
+
+B    B/A      B/G#    B/F#  E
+Even when you do your worst        
+
+
+Each chord in the last line should look like:
+
+    B       B/A      B/G#     B/F#      E
+e|--0--------0--------0--------0--------0--------|
+B|--4--------4--------4--------4--------0--------|
+G|--4--------4--------4--------4--------1--------|
+D|--4--------4--------4--------4--------2--------|
+A|--2--------0--------x--------x--------2--------|
+E|--x--------x--------4--------2--------0--------|
+
+This walk-down will also appear in the verses. 
+
+VERSE
+
+E                               F#m
+Well I'm a wheel that's always turning, oh
+
+F#m                               E
+Well I always start out where I end
+
+E                                     F#m
+And me, I'm like a fire that's always burning 
+
+    B   B/A  B/G#  B/F#
+But oh, how  time  flies 
+
+B       B/A    B/G#  B/F#               (Same walk-down from chorus)
+  Right by the way - side
+
+REPEAT (Choruses change lyrics as well)
+
+
+
+CLOSING NOTE:
+Shakey tends to play his songs a little different each time he plays them, so feel free to break the mold on 
+embellishments and lead lines - these are just how I have played them based on the recordings. Thanks for
+checking out my tab, and I hope it wasn't too complex or poorly explained, this is my first one, so please 
+rate! Shine on
+
+
+************************************
+
+| h   hammer-on
+| p   pull-off
+
+************************************
