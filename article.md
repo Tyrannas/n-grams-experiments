@@ -302,4 +302,8 @@ On pourrait ainsi imaginer un système alliant n-grammes pour la syntaxe, et wor
 
 Mais cela serait un sujet d'article à part entière. 
 
+<<<<<<< HEAD
 Merci de votre lecture.
+=======
+Merci de votre lecture.
+>>>>>>> 9f364bf08aec918e065d7748ff99e8fb0089f0c5
