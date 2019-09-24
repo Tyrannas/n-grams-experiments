@@ -283,6 +283,8 @@ On prendra ici toutes les notes jouées au même moment sur les différentes cor
 
 En transformant chaque partition en tableaux de tableaux, on peut alors le donner en entrée de notre modèle et écouter les résultats joués rapidement par mes soins. (Désolé pour la mauvaise qualité audio et le manque de fluidité mais ces 'morceaux' ont été joués à leur découverte).
 
+Si les audios ne marchent pas sur votre navigateur, les fichiers sont disponibles <a href="https://github.com/Tyrannas/n-grams-experiments/tree/master/audio">ici.</a>
+
 Pour **n=2**
 
 <audio
