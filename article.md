@@ -21,7 +21,7 @@ Une solution serait alors de modéliser la probabilité d'une phrase en fonction
 > 
 > Pour plus d'informations: <a href="https://fr.wikipedia.org/wiki/Formule_des_probabilités_composées">Les probabilités composées</a>
 
-### 2.1 Les n-grammes à la rescousse!
+### 1.2 Markov à la rescousse!
 Malheureusement cela ne nous aide pas énormément. En effet, que se passe-t-il si l'on cherche à calculer les probabilités des phrases suivantes:
 - Je suis fatigué
 - Il se fait tard et je suis fatigué
@@ -73,14 +73,14 @@ Bien sûr, prédire un mot en prenant seulement en compte le mot d'avant est ass
 >
 > Il faut donc faire attention en choississant **n**, on pourra se permettre des valeurs plus élevées sur des corpus d'entraînement plus gros. Mais généralement les 4-grammes (comme un breton à 9h du matin) ou 5-grammes donnent des résultats corrects.
 
-### 2.3 Cas d'usage
+### 1.3 Cas d'usage
 
 Une brève parenthèse avant de passer au code lui même, pour parler des cas d'usages 'réels' de ces modèles. 
 Les modèles n-grammes sont utilisés plus souvent qu'on ne peut le penser. Notamment en complétion des algorithmes de reconnaissance automatique du langage écrit ou parlé, ou même encore pour aider à la reconnaissance de patterns lors du séquençage ADN.
 
 > Imaginez un logiciel de reconnaissance de caractères (OCR) à qui l'on donnerait la phrase suivante en entrée "J'ai mangé des pêches", et que le dernier mot fort mal écrit, soit reconnu à 70% comme "bêches" et à 30% comme pêches. Notre algorithme pourra alors tenter de s'appuyer sur un modèle 4-grammes (toujours aucun rapport avec le chouchen), pour infirmer sa déduction puisque le mot bêche n'apparait jamais après la séquence "ai mangé des".
 
-En réalité, ce type de modèle est loin de s'appliquer simplement aux mots, et peut être utilisé pour toute suite logique de n éléments au sein d'un ensemble, cela peut être des lettres (pour prédire caractère par caractère ce qui va être écrit), avec des sons, des suites de pixels... Le système est simple, es possibilités nombreuses.
+En réalité, ce type de modèle est loin de s'appliquer simplement aux mots, et peut être utilisé pour toute suite logique de n éléments au sein d'un ensemble, cela peut être des lettres (pour prédire caractère par caractère ce qui va être écrit), avec des sons, des suites de pixels... Le système est simple, les possibilités nombreuses.
 
 -----
 
@@ -90,7 +90,6 @@ Ces bases théoriques étant posées, et le principe de génération par n-gramm
 
 Est décrite ci dessus une implémentation assez naïve du modèle, et en pseudo code. Pour ceux voulant aller plus loin ou tester eux même, le code complet avec des méthodes pour preprocesser le texte est disponible <a href="https://github.com/Tyrannas/n-grams-experiments">ici.</a>
 
-Bien.
 Résumons donc ce dont nous avons besoin pour faire fonctionner notre modèle:
 
 - Un corpus d'apprentissage pour calculer les probabilités.
@@ -198,30 +197,80 @@ class Model:
 
 Et voilà, c'était extrêmement simple. On peut ensuite modifier un peu la méthode generate de la classe Model pour générer automatiquement de plus longues suites de mots en créant à chaque fois une nouvelle séquence en enlevant le premier mot de la séquence d'avant, et en rajoutant le mot qui vient d'être prédit.
 
+    "is Major Tom" ==> "to"
     "Major Tom to" ==> "Ground"
     "Tom to Ground" ==> "Control"
     "to Ground Control" ==> ...
     etc.
 
-Et maintenant testons un peu ce modèles avec des exemples concrets.
+Et maintenant testons un peu ce modèle avec des exemples concrets.
+
 ## les exemples
 ### texte
-lotr n = 3
-lotr n = 5
-3 mousqutaires n = 3
-3 mousquetaires n = 4
-3 mousquetaires n = 5
+LOTR ==> 800k mots
 
-dire que c'est que 800 000 mots
+lotr n = 3
+because an old inn that is the spirit of mordor and became separated from the beginning of their cavalry turned and went after him. All's clear now'
+
+'Skulls and bones black in cinders lie beneath the roots of the food i send with you. Dreadful as the valley.'
+
+lotr n = 4
+"Fierce voices rose up to greet it from across the valley. When dinner was over they began to tell on him as he swayed it from side to side the king's party came up under the lowering clouds with cr imson."
+lotr n = 5
+"Not very near and yet too near it seems'. As it was he had a desperate fight before he got free."
+
+"Yet at the last beren was slain by the same orcs whom you destroyed'. That we now know too well."
+
+'Peace and freedom do you say. Let me get my hands on you.'
+
+OVERFIT:
+
+An author cannot of course remain wholly unaffected  by his experience,  
+but the ways in which a story-germ uses the soil of experience are extremely  
+complex,  and  attempts  to  define  the  process  are at  best guesses from 
+evidence  that  is  inadequate  and  ambiguous. 
+
+==> 
+
+An author cannot of course remain wholly unaffected by his experience but the ways in which a storygerm uses the soil of experience are extremely complex and attempts to define the process are at best guesses from evidence that is inadequate and ambiguous.'
+
+==> tout simplement parceque ça sort complètement du registre du reste du livre et que n est trop grand
+
+3MOUSQU ==> 250k
+3 mousquetaires n = 3
+"L'une était un signal. Désormais il faut être libre et si vous avez eu tort."
+
+3 mousqutaires n = 4
+"Athos porthos et aramis se placèrent à une table et se mit à table mangea peu et ne but que de l'eau. À mon tour."
+3 mousquetaires n = 5
+'Le mot est un peu dur. Vous avez baisé la main de la porte.'
+"C'est vous d'artagnan c'est vous athos dit le jeune homme je vous l'avoue d'autant mieux mon cher monsieur bonacieux que je vois qu'on ne peut rien vous cacher. Enfin tout à coup une voix pleine de douceur et de majesté."
+
+TEXT8?
+
 ### tabs
 la recup
 le parsing
 generer
 extraits audio des moins pourries
 
-## pour aller plus loin
-dans le code la tokenization, le clean du texte toussa
-combiner les markov
-les stopwords
-le smoothing
-la generation avec lstm et openai
+## Pour aller plus loin
+
+Nous avons vu ici comme générer du contenu automatiquement à partir des modèles n-grammes. Aujourd'hui de nombreuses autres méthodes existent dans le monde de la création automatique (réseaux de neurones LSTM pour le texte, GAN pour l'image etC...). On pourra notamment penser à l'initiative Open AI (METTRE UN LIEN) qui a récemment produit des résultats assez impressionants sur la génération automatique d'article de journal à partir d'un simple résumé.
+Cependant les n-grammes restent une solution très simple à mettre en place et pourtant assez robuste dans ses résultats (bien qu'ils soient plus utilisés comme support à d'autres algorithmes qu'utilisés de façon indépendante, voir 1.3)
+
+Il existe malgré tout des moyens d'optimiser le modèle basique présenté ici. On pourrait par exemple entrainer des modèles avec des **n** différents, puis essayer de les combiner. Il existe également des méthodes de smoothing, permettant d'homogénéiser les probabilités des mots prédits pour limiter l'overfit au texte. D'autres méthodes encore permettent de prendre en compte des mots jamais rencontrés lors de la prédiction...
+
+Une dernière piste d'amélioration et une critique majeure des n-grammes pourrait être celle de la sémantique. En effet si les n-grammes permettent de conserver une syntaxe assez cohérente, le sens lui même de la phrase générée n'est parfois pas cohérent. Si l'on reprend l'un de nos tous premiers exemples:
+
+    Il se fait tard et je suis fatigué.
+
+Même s'il existe effectivement des chances raisonnables de prédire fatigué avec seulement "je suis", la première partie de la phrase "il se fait tard" apporte un élément de sens non négligeable et qui pourrait fortement accroitre les probabilité d'avoir le mot "fatigué" en fin de phrase.
+
+Pour pallier à ce problème des modèles tels que word2vec (METTRE UN LIEN) qui construisent des représentations vectorielles des mots à partir du contexte de ces derniers. Plus précisémment, en utilisant non pas des n-grammes, mais des <a href="">skip-grammes!</a> Cela permet de conserver l'aspect sémantique des phrases.
+
+On pourrait ainsi imaginer un système alliant n-grammes pour la syntaxe, et word2vec pour orienter le choix du mot à prédire.
+
+Mais cela serait un sujet d'article à part entière. 
+
+Merci de votre lecture.
