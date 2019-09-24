@@ -54,7 +54,7 @@ Nous pouvons alors calculer les probabilités des bigrammes contenant par exempl
 
 Cela revient à dire que si l'on rencontre le mot "je" dans une phrase, il y a 60% de chances qu'il soit suivi du mot "suis", et 20% de chances qu'il soit suivi de "vais" ou "m'appelle". 
 
-Le système de génération de texte est alors enfantin. En prenant les probabilités cumulées du bigramme ci dessus, avec X le mot à prédire:
+Le système de génération de texte est alors enfantin. En prenant les probabilités cumulées du bigramme ci dessus, avec X le mot à prédire, on peut constuire les intervalles de prédiction pour chaque mot.
 
 | X  | P(X)   | Cumulé| Intervalle
 |---|---|---|---|
@@ -64,7 +64,7 @@ Le système de génération de texte est alors enfantin. En prenant les probabil
 | "m'appelle"  | 0.20  | 1 |]0.80;1]
 
 
-Il suffit de tirer un nombre aléatoire ***y*** entre 0 et 1, et de choisir le mot tel que ***y*** soit compris dans l'intervalle du mot
+Il suffit de tirer un nombre aléatoire ***y*** entre 0 et 1, et de choisir le mot tel que ***y*** soit compris dans l'intervalle du mot.
 
 > Ex: si je tire 0.70, on a  0.60 < 0.70 < 0.80. Le mot généré sera donc "vais".
 
