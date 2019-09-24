@@ -61,7 +61,7 @@ Le système de génération de texte est alors enfantin. En prenant les probabil
 | Rien  | 0 | 0 |Vide
 | "suis"  | 0.60  | 0.60 |[0;0.60]
 | "vais"  | 0.20  | 0.80 |]0.60;0.80]
-| "m'apelle"  | 0.20  | 1 |]0.80;1]
+| "m'appelle"  | 0.20  | 1 |]0.80;1]
 
 
 Il suffit de tirer un nombre aléatoire ***y*** entre 0 et 1, et de choisir le mot tel que ***y*** soit compris dans l'intervalle du mot
