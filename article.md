@@ -279,7 +279,7 @@ On prendra ici toutes les notes jouées au même moment sur les différentes cor
     ['-', '0', '0', '-', '2', '-']
 
 > Ce tableau correspondrait à la portion en rouge sur la tablature du dessus: 
-<img src="./images/tab_example2.PNG"/>
+<img src="./images/tab_example2.png"/>
 
 En transformant chaque partition en tableaux de tableaux, on peut alors le donner en entrée de notre modèle et écouter les résultats joués rapidement par mes soins. (Désolé pour la mauvaise qualité audio et le manque de fluidité mais ces 'morceaux' ont été joués à leur découverte).
 
