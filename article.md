@@ -54,18 +54,19 @@ Nous pouvons alors calculer les probabilités des bigrammes contenant par exempl
 
 Cela revient à dire que si l'on rencontre le mot "je" dans une phrase, il y a 60% de chances qu'il soit suivi du mot "suis", et 20% de chances qu'il soit suivi de "vais" ou "m'appelle". 
 
-Le système de génération de texte est alors enfantin. En prenant la fonction de répartition du bigramme ci dessus, avec x le mot à prédire:
+Le système de génération de texte est alors enfantin. En prenant les probabilités cumulées du bigramme ci dessus, avec X le mot à prédire:
 
-    Fx(x) = {
-        0
-        P[X <= "suis"] = 3/5
-        P[X <= "vais"] = 4/5
-        P[X <= "m'appelle"] = 5/5
-    }
+| X  | P(X)   | Cumulé| Intervalle
+|---|---|---|---|
+| Rien  | 0 | 0 |Vide
+| "suis"  | 0.60  | 0.60 |[0;0.60]
+| "vais"  | 0.20  | 0.80 |]0.60;0.80]
+| "m'apelle"  | 0.20  | 1 |]0.80;1]
 
-Il suffit de tirer un nombre aléatoire *y* entre 0 et 1, et de choisir le mot tel que *y* soit compris entre deux bornes de la fonction de répartition.
 
-> Ex: si je tire 0.70, 3/5 < 0.70 < 4/5, le mot généré sera donc "vais".
+Il suffit de tirer un nombre aléatoire ***y*** entre 0 et 1, et de choisir le mot tel que ***y*** soit compris dans l'intervalle du mot
+
+> Ex: si je tire 0.70, on a  0.60 < 0.70 < 0.80. Le mot généré sera donc "vais".
 
 Bien sûr, prédire un mot en prenant seulement en compte le mot d'avant est assez réducteur et le résultat sera souvent assez limité, mais dès que l'on utilise des valeurs de *n* égales à 4 ou 5, la cohérence du texte généré augmente. 
 
@@ -166,7 +167,7 @@ class Model:
         # on sépare le texte en tableau de mots en splittant sur les espaces
         # pour i = self.n jusqu'à la fin du texte:
             # on prend self.n mots à partir de i
-            # on id composé de ces mots pour identifier le ngramme
+            # on créé un identifiant composé de ces mots qui nous servira à identifier ce ngramme dans le dictionnaire self.ngrams 
             # on créé self.ngrams[id] = Ngram() s'il n'existe pas
             # on utilise la méthode add_word du ngramme nouvellement créé en lui passant le mot suivant les self.n mots:
             # ==> self.ngrams[id].addword[texte[i + self.n + 1]]
@@ -280,8 +281,37 @@ On prendra ici toutes les notes jouées au même moment sur les différentes cor
 > Ce tableau correspondrait à la portion en rouge sur la tablature du dessus: 
 <img src="./images/tab_example2.PNG"/>
 
-En transformant chaque partition en tableaux de tableaux, on peut alors le donner en entrée de notre modèle et écouter les résultats joués rapidement par mes soins. (Désolé pour la mauvaise qualité audio).
+En transformant chaque partition en tableaux de tableaux, on peut alors le donner en entrée de notre modèle et écouter les résultats joués rapidement par mes soins. (Désolé pour la mauvaise qualité audio et le manque de fluidité mais ces 'morceaux' ont été joués à leur découverte).
 
+Pour **n=2**
+
+<audio
+        controls
+        src="./audio/n2.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+
+Pour **n=3**
+
+<audio
+        controls
+        src="./audio/n3.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+
+Pour **n=4**
+
+<audio
+        controls
+        src="./audio/n4.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+
+
+Cela reste en fin de compte assez expérimental mais peut être une potentielle source d'inspiration qui pourra être par la suite "corrigée" par le musicien pour que le résultat soit plus homogène!
 
 ## Pour aller plus loin
 
@@ -302,8 +332,4 @@ On pourrait ainsi imaginer un système alliant n-grammes pour la syntaxe, et wor
 
 Mais cela serait un sujet d'article à part entière. 
 
-<<<<<<< HEAD
 Merci de votre lecture.
-=======
-Merci de votre lecture.
->>>>>>> 9f364bf08aec918e065d7748ff99e8fb0089f0c5
